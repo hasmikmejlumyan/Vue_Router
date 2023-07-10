@@ -33,7 +33,6 @@ const router = createRouter({
             return savedPosition;
         }
         return { left: 0, top: 0 };
-
     }
 });
 
